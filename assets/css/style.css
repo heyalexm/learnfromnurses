@@ -2019,6 +2019,14 @@ section.our-team ul.nacc li .profile img {
     border-radius: 15px;
     margin-left: 0px;
   }
+  .risk-image {
+    position: relative;
+    margin-right: 0px;
+    margin-left: 20px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+    transform: translateY(-0%);
+  }
 
 }
 
