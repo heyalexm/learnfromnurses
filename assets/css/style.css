@@ -2013,6 +2013,13 @@ section.our-team ul.nacc li .profile img {
   section.more-info .count-area-content .count-title {
     font-size: 22px;
   }
+
+  .right-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    margin-left: 0px;
+  }
+
 }
 
 
