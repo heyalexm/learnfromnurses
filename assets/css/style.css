@@ -2022,7 +2022,7 @@ section.our-team ul.nacc li .profile img {
   .risk-image {
     position: relative;
     margin-right: 0px;
-    margin-left: 0px;
+    margin-left: 10px;
     margin-top: -40px;
     margin-bottom: 40px;
     transform: translateY(-0%);
