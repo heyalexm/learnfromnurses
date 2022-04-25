@@ -1917,6 +1917,35 @@ body {
   overflow-x: hidden;
 }
 
+@media (max-width: 1400px) {
+  .services .owl-nav .owl-next{
+    right: -30px;
+  }
+  .services .owl-nav .owl-prev{
+    left: -25px;
+  }
+  .our-courses .owl-nav .owl-next{
+    right: -30px;
+  }
+  .our-courses .owl-nav .owl-prev{
+    left: -25px;
+  }
+  .right-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+  }
+  .left-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+
+  }
+}
+
 @media (max-width: 1330px) {
   .services .owl-nav .owl-next{
     right: -30px;
@@ -1929,6 +1958,20 @@ body {
   }
   .our-courses .owl-nav .owl-prev{
     left: -25px;
+  }
+  .right-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+  }
+  .left-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+
   }
 }
 
@@ -1958,6 +2001,20 @@ body {
   .our-courses .owl-nav .owl-prev{
     left: -65px;
   }
+  .right-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+  }
+  .left-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+
+  }
 }
 
 @media (max-width: 1085px) {
@@ -1973,6 +2030,20 @@ body {
   .our-courses .owl-nav .owl-prev{
     left: -25px;
   }
+  .right-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+  }
+  .left-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+
+  }
 }
 
 @media (max-width: 1005px) {
@@ -1987,6 +2058,14 @@ body {
   }
   .our-courses .owl-nav .owl-prev{
     display: none;
+  }
+  .right-image img{
+    max-width: 500px;
+    border-radius: 15px;
+  }
+  .left-image img{
+    max-width: 500px;
+    border-radius: 15px;
   }
 }
 
@@ -2064,6 +2143,29 @@ body {
     margin-right: 15px;
     padding-right: 15px;
   }
+
+  .right-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+  }
+  .left-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+
+  }
+  .risk-image {
+    position: relative;
+    margin-right: 0px;
+    margin-left: 10px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+    transform: translateY(-0%);
+  }
 }
 
 @media (max-width: 767px) {
@@ -2122,7 +2224,16 @@ section.our-team ul.nacc li .profile img {
   .right-image img{
     max-width: 500px;
     border-radius: 15px;
-    margin-left: 0px;
+    display: block;
+    margin: 0 auto 0 auto;
+    
+  }
+  .left-image img{
+    max-width: 500px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 0 auto;
+
   }
   .risk-image {
     position: relative;
