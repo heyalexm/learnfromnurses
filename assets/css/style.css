@@ -1964,6 +1964,13 @@ body {
     margin: 0 50px 0 auto;
     border-radius: 15px;
   }
+  .testimonials .item iframe{
+    width: 250px;
+    height: 160px;
+    display: block;
+    margin: 0 auto 0 auto;
+    border-radius: 15px;
+  }
 }
 
 @media (max-width: 1330px) {
@@ -1999,6 +2006,13 @@ body {
     height: 300px;
     display: block;
     margin: 0 45px 0 auto;
+    border-radius: 15px;
+  }
+  .testimonials .item iframe{
+    width: 250px;
+    height: 160px;
+    display: block;
+    margin: 0 auto 0 auto;
     border-radius: 15px;
   }
 }
@@ -2050,6 +2064,13 @@ body {
     margin: 0 100px 0 auto;
     border-radius: 15px;
   }
+  .testimonials .item iframe{
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: 0 auto 0 auto;
+    border-radius: 15px;
+  }
 }
 
 @media (max-width: 1085px) {
@@ -2087,6 +2108,13 @@ body {
     margin: 0 100px 0 auto;
     border-radius: 15px;
   }
+  .testimonials .item iframe{
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: 0 auto 0 auto;
+    border-radius: 15px;
+  }
 }
 
 @media (max-width: 1005px) {
@@ -2117,6 +2145,14 @@ body {
     margin: 0 100px 0 auto;
     border-radius: 15px;
   }
+  .testimonials .item iframe{
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: 0 auto 0 auto;
+    border-radius: 15px;
+  }
+
 }
 
 @media (max-width: 992px) {
@@ -2224,6 +2260,14 @@ body {
     margin: 0 auto 0 auto;
     border-radius: 15px;
   }
+  .testimonials .item iframe{
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: 0 auto 0 auto;
+    border-radius: 15px;
+  }
+
 }
 
 @media (max-width: 767px) {
@@ -2306,6 +2350,14 @@ section.our-team ul.nacc li .profile img {
     margin: 0 auto 0 auto;
     border-radius: 15px;
   }
+  .testimonials .item iframe{
+    width: 150px;
+    height: 100px;
+    display: block;
+    margin: 0 auto 0 auto;
+    border-radius: 15px;
+  }
+
 }
 
 
