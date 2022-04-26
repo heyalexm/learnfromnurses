@@ -2266,8 +2266,8 @@ body {
     border-radius: 15px;
   }
   .testimonials .item iframe{
-    width: 200px;
-    height: 150px;
+    width: 250px;
+    height: 170px;
     display: block;
     margin: 0 auto 0 auto;
     border-radius: 15px;
@@ -2356,8 +2356,8 @@ section.our-team ul.nacc li .profile img {
     border-radius: 15px;
   }
   .testimonials .item iframe{
-    width: 150px;
-    height: 100px;
+    width: 250px;
+    height: 170px;
     display: block;
     margin: 0 auto 0 auto;
     border-radius: 15px;
@@ -2365,6 +2365,14 @@ section.our-team ul.nacc li .profile img {
 
 }
 
+@media (max-width: 529px) {
+  .get-info .item iframe{
+    width: 350px;
+    height: 200px;
+    margin: 0 auto 0 auto;
+    border-radius: 15px;
+  }
+}
 
 
 /* 
